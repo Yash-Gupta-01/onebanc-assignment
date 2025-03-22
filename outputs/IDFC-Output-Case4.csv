@@ -1,0 +1,25 @@
+Date,Transaction Description,Debit,Credit,Currency,CardName,Transaction,Location
+2017-12-13,JUNOON RESTRO,1255.0,0,INR,Rahul,Domestic,gurgaon
+2017-12-16,POONAM SERVICE STATION,170000000.0,0,INR,Rahul,Domestic,gurgaon
+2017-12-16,KABI BESPOKE BOUTIQUE,220.0,0,INR,Rahul,Domestic,gurgaon
+2017-12-16,CLEARTRIP TRAVEL SERVIC,14849.0,0,INR,Rahul,Domestic,mumbai
+2017-12-21,INDIAN RAILWAY CATERINGNEW,1684.0,0,INR,Rahul,Domestic,delhi
+2017-12-22,CLEARTRIP TRAVEL SERVIC,5205.0,0,INR,Rahul,Domestic,mumbai
+2017-12-22,MSW*BLISS HOSPITALITIE Delhi,37640000000.0,0,INR,Rahul,Domestic,ncr
+2017-12-23,NIMITAYA HOTEL & RESOR,3475.0,0,INR,Rahul,Domestic,gurgaon
+2017-12-24,BIKANERVALA (GURGAON U),278.0,0,INR,Rahul,Domestic,gurgaon
+2018-02-01,THAI CHI STREET,987.0,0,INR,Raj,Domestic,gurgaon
+2018-02-01,AMAZON PAY,1875.0,0,INR,Raj,Domestic,bangalore
+2018-04-01,SHAHEED MANOHAR LAL FIL,180000000.0,0,INR,Raj,Domestic,gurgaon
+2018-08-01,BIKANERVALA (GURGAON U),420.0,0,INR,Raj,Domestic,gurgaon
+2018-09-01,MOPS-SBC-CR-CARD-E,500000.0,0,INR,Raj,Domestic,mumbai
+2017-12-12,SHOPPERS STOP LTD,28860000000.0,0,INR,Raj,Domestic,gurgaon
+2017-12-12,MORE MEGASTORE,1500.0,0,INR,Raj,Domestic,gurgaon
+2017-12-13,SHAHEED MANOHAR LAL FIL,1968.0,0,INR,Raj,Domestic,gurgaon
+2017-12-13,LIVE PHARMACY,627.0,0,INR,Raj,Domestic,gurgaon
+2018-03-01,SRILANKANUPGRADE,10.0,0,EUR,Rahul,International,katunayake
+2018-01-14,HEALTHGUARD LIMITED,80000000.0,0,USD,Rahul,International,katunayake
+2018-01-14,FOOT RUB,21.0,0,EUR,Rahul,International,berlin
+2018-01-20,California Games,101.0,0,USD,Rahul,International,california
+2018-01-30,NewYorkShop,1990000000.0,0,USD,Rahul,International,newyork
+2018-08-02,EURO WINGS,10.0,0,EUR,Rahul,International,dusseldor

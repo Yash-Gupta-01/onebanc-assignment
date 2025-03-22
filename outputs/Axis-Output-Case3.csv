@@ -1,0 +1,21 @@
+Date,Transaction Description,Debit,Credit,Currency,CardName,Transaction,Location
+2018-01-28,INDIAN RAILWAY CATERINGNEW,1099.0,0.0,INR,Rahul,Domestic,delhi
+2018-01-28,FLIPKART INTERNET PRIVA,34980.0,0.0,INR,Rahul,Domestic,bangalore
+2018-01-28,TIPSY CATERERS,660.0,0.0,INR,Rahul,Domestic,jaipur
+2018-01-29,MAKEMYTRIP INDIA PVT LT,57181.0,0.0,INR,Rahul,Domestic,newdelhi
+2018-01-29,INDIAN RAILWAY CATERING,0.0,3390.0,INR,Rahul,Domestic,newdelhi
+2018-01-29,MAKEMYTRIP INDIA PVT LT,0.0,53326.0,INR,Rahul,Domestic,newdelhi
+2018-01-30,INDIAN RAILWAY CATERING,0.0,680.0,INR,Rahul,Domestic,newdelhi
+2018-02-22,FEETOES,0.0,1845.0,INR,Ritu,Domestic,gurgaon
+2018-02-18,DECATHLON SPORTS INDIA,949.0,0.0,INR,Ritu,Domestic,gurgaon
+2018-02-09,SILVER GALERIE A UNIT,1250.0,0.0,INR,Ritu,Domestic,gurgaon
+2018-02-23,DNA PHARMACY,0.0,1650.0,INR,Ritu,Domestic,gurugram
+2018-02-26,MONTE CARLO,0.0,413.0,INR,Ritu,Domestic,gurgaon
+2018-02-27,THE ROOM,0.0,456.0,INR,Ritu,Domestic,gurgaon
+2018-02-27,LITTLE BURGUNDY,1938.0,0.0,INR,Ritu,Domestic,gurgaon
+2018-01-13,SRILANKANUPGRADE,9.0,0.0,EUR,Rahul,International,katunayake
+2018-01-14,HEALTHGUARD LIMITED,0.0,6.0,USD,Rahul,International,katunayake
+2018-01-17,FOOT RUB,19.0,0.0,EUR,Rahul,International,berlin
+2018-01-28,California Games,108.0,0.0,USD,Rahul,International,california
+2018-01-30,NewYorkShop,219.0,0.0,USD,Rahul,International,newyork
+2018-02-03,EURO WINGS,8.0,0.0,EUR,Rahul,International,dusseldor
